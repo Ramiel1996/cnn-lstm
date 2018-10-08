@@ -7,8 +7,8 @@ cnn用于提取每帧视频的特征，将每帧提取为4096维向量，选取�
 ## 数据集
 [Recognition of human actions][1]
 ## 运行
-get_frames
-get_feature 
+get_frames,
+get_feature,
 train_LSTM
 
 [1]:http://www.nada.kth.se/cvap/actions/
