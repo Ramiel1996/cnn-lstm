@@ -1,8 +1,14 @@
-# »ùÓÚcnnºÍlstmµÄ¶¯×÷ÊÓÆµĞòÁĞÊ¶±ğ
+# åŸºäºcnnå’Œlstmçš„åŠ¨ä½œè§†é¢‘åºåˆ—è¯†åˆ«
 -------------------------------
-## ÒÀÀµÏî: matlab2017b, matconvnet
-## Ëã·¨Á÷³Ì:cnnÓÃÓÚÌáÈ¡Ã¿Ö¡ÊÓÆµµÄÌØÕ÷£¬½«Ã¿Ö¡ÌáÈ¡Îª4096Î¬ÏòÁ¿£¬Ñ¡È¡Ã¿¸öÊÓÆµµÄÇ°Ò»°ÙÖ¡£¬ÊäÈëlstm½øĞĞÑµÁ·
-## Êı¾İ¼¯:[Recognition of human actions][1]
-## ÔËĞĞget_frames, get_feature, train_LSTM
+## ä¾èµ–é¡¹
+matlab2017b, matconvnet
+## ç®—æ³•æµç¨‹
+cnnç”¨äºæå–æ¯å¸§è§†é¢‘çš„ç‰¹å¾ï¼Œå°†æ¯å¸§æå–ä¸º4096ç»´å‘é‡ï¼Œé€‰å–æ¯ä¸ªè§†é¢‘çš„å‰ä¸€ç™¾å¸§ï¼Œè¾“å…¥lstmè¿›è¡Œè®­ç»ƒ
+## æ•°æ®é›†
+[Recognition of human actions][1]
+## è¿è¡Œ
+get_frames
+get_feature 
+train_LSTM
 
 [1]:http://www.nada.kth.se/cvap/actions/
